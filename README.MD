@@ -6,6 +6,6 @@
 
 ## MC
 
- - Experiment 1 - [Effect of cellular system design parameters on system capacity](/MC/Experiment%201)
+ - Experiment 1 - [Effect of cellular system design parameters on system capacity](/MC/Exp-1/)
 
  
