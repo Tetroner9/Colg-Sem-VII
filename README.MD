@@ -12,7 +12,7 @@
 
  - Experiment 3 - [Trunking & Grade of Service](/MC/Exp-3/)
 
- - Experiment 4 - [](/MC/Exp-4/)
+ - Experiment 4 - [Effect of Small Scale Fading Parameter on System Capacity](/MC/Exp-4/)
 
  - Experiment 5 - [](/MC/Exp-5/)
 
