@@ -14,11 +14,14 @@
 
  - Experiment 4 - [Effect of Small Scale Fading Parameter on System Capacity](/MC/Exp-4/)
 
- - Experiment 5 - [](/MC/Exp-5/)
+ - Experiment 5 - [Analyze the link budget for various Propagation models](/MC/Exp-5/)
 
- - Experiment 6 - [](/MC/Exp-6/)
+ - Experiment 6 - [OFDM: A Multicarrier Modulation Technique](/MC/Exp-6/)
 
- - Experiment 7 - [](/MC/Exp-7/)
+ - Experiment 7 - [Case Study](/MC/Exp-7/)
+
+ - Experiment 8 - [ Effect of Channel capacity on Signal to interference ratio for
+various MIMO Systems](/MC/Exp-8/)
 
 
 
