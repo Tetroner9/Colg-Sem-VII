@@ -38,9 +38,9 @@ various MIMO Systems](/MC/Exp-8/)
 - Experiment 3 - [Vector Network Analyzer](/MWE/Exp-3/)
 
 - Experiment 4 - [Design of Rectangular Waveguide using
-EM Simulation Software](/MWE/Exp-4/) - *[Tutorial](https://youtu.be/F6qOlGe1wrw?si=J9CxFlFK9nqRUs2C)*
+EM Simulation Software](/MWE/Exp-4/) - *[Ansys Tutorial](https://youtu.be/F6qOlGe1wrw?si=J9CxFlFK9nqRUs2C)*
 
-- Experiment 5 - [Microstrip Transmission Line](/MWE/Exp-5/) - *[Tutorial](https://www.youtube.com/watch?v=LOQePJnB_9Q)*
+- Experiment 5 - [Microstrip Transmission Line](/MWE/Exp-5/) - *[Ansys Tutorial](https://www.youtube.com/watch?v=LOQePJnB_9Q)*
 
 - Experiment 6 - [Characteristics of Reflex Klystron](/MWE/Exp-6/)
 
