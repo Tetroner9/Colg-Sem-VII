@@ -2,7 +2,16 @@
 
 ## Requirements
 
- - will be updated soon!
+***This repository contains project files for specific versions. Make sure to use the same version to prevent any issues.***
+
+- [Ansys Electronics](https://www.ansys.com/academic/students/ansys-electronics-desktop-student) - Student 2024 R2
+- [Smith](http://www.fritz.dellsperger.net/downloads%20Smith/Setup%20Smith%20V4.1.0.0.zip) - V4.1
+- [Python](https://www.python.org/downloads/)
+
+Make sure to include the following packges:</br>
+```
+pip install jupyterlab notebook matplotlib numpy
+```
 
 ## MC
 
@@ -38,9 +47,9 @@ various MIMO Systems](/MC/Exp-8/)
 - Experiment 3 - [Vector Network Analyzer](/MWE/Exp-3/)
 
 - Experiment 4 - [Design of Rectangular Waveguide using
-EM Simulation Software](/MWE/Exp-4/) - *[Ansys Tutorial](https://youtu.be/F6qOlGe1wrw?si=J9CxFlFK9nqRUs2C)*
+EM Simulation Software](/MWE/Exp-4/) - *[Instructions](/MWE/Exp-4/README.MD)*
 
-- Experiment 5 - [Microstrip Transmission Line](/MWE/Exp-5/) - *[Ansys Tutorial](https://www.youtube.com/watch?v=LOQePJnB_9Q) - [Calculations Website](https://www.emtalk.com/mscalc.php)*
+- Experiment 5 - [Microstrip Transmission Line](/MWE/Exp-5/) - *[Instructions](/MWE/Exp-5/README.MD)*
 
 - Experiment 6 - [Characteristics of Reflex Klystron](/MWE/Exp-6/)
 
